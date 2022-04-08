@@ -1,2 +1,2 @@
 # CRUDConsol
-Dibuat UNtuk Mengerjakan Tugas Kuliah
+Dibuat Untuk Mengerjakan Tugas Kuliah
